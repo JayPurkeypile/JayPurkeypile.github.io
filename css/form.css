@@ -1,0 +1,19 @@
+footer{
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+form{
+    row-gap: 1em;
+    margin-left: 30%;
+    margin-right: 30%; 
+    text-align: center;
+}
+
+fieldset{
+    display: flex;
+    justify-content:space-between;
+}
+

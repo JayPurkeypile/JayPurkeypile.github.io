@@ -1,0 +1,25 @@
+    table{
+        border-collapse: collapse;
+        background-color: #379c9c;
+        font-size: 23px;
+    }
+    
+    th, td{
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+    }
+    caption{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    
+    .company{
+        font-weight:bold
+    }
+     
+    th{
+        background-color: #338684;
+    }
+
+
