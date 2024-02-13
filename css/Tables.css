@@ -22,4 +22,17 @@
         background-color: #338684;
     }
 
-
+    .row {
+        display: flex;              
+        flex-direction: row;         
+        
+        border: 1px solid gray;     
+      }
+      
+      .list {       
+        display: flex;           
+        padding: 20px;
+        box-shadow: 0px 4px 6px black;
+        background-color: #297474;   
+      }
+      
